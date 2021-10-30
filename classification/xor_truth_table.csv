@@ -1,4 +1,4 @@
-A,B,A xor B,,,,
+A,B,class,,,,
 FALSE,FALSE,FALSE,,,,
 FALSE,TRUE,TRUE,,,,
 TRUE,FALSE,TRUE,,,,
