@@ -1,4 +1,4 @@
-Gender,Car Ownership,Travel Cost,Income Level,Class
+Gender,Car Ownership,Travel Cost,Income Level,class
 Male,0,Cheap,Low,Bus
 Male,1,Cheap,Medium,Bus
 Female,1,Cheap,Medium,Train
